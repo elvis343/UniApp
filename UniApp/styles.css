@@ -1,0 +1,18 @@
+body{
+    position: fixed;
+    bottom: 20px;
+    width: 300px;
+    justify-content:center;
+    border: 3px solid #73AD21;
+}
+homepage{
+    max-width:fit-content;
+    max-height:fit-content;
+    background-size: cover;
+}
+img{
+    mask-border-width: 30px;
+    max-width: 150px;
+
+}
+
